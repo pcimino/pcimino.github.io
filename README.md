@@ -19,7 +19,7 @@ Welcome to my contact page.
 
 
 <a href="mailto:pcimino@translunardesigns.com?Subject=Hello" target="_top">
-Send Email to PCimino@TransLunarDesigns.com</a>
+Send Email to PCimino@gmail.com</a>
 
 
 
